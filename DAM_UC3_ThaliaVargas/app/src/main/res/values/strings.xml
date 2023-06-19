@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DAM_UC3_ThaliaVargas</string>
+    <string name="CorreoElectrónico">Correo Electrónico</string>
+    <string name="NoCerrarSesión">No cerrar sesión</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="HasOlvidadoTuContraseña">¿Has olvidado tu contraseña?</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Registrate">Registrate</string>
+    <string name="Esgratis">Es gratis (y lo seguirá siendo).</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Apellidos">Apellidos:</string>
+    <string name="CorreoElectronico">Dirección de correo electrónico:</string>
+    <string name="Correo">Tu dirección de correo electrónico</string>
+    <string name="ContraseñaNueva">Contraseña Nueva:</string>
+    <string name="Sexo">Sexo:</string>
+    <string name="Nacimiento">Fecha de Nacimiento</string>
+    <string name="Informacion">¿Porqué tengo que dar tanta información?</string>
+    <string name="Registrar">Regístrate</string>
+</resources>
